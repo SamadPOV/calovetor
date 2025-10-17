@@ -1,0 +1,441 @@
+Answers For Any Number
+(These work no matter what the answer is)
+"That's how many times I've thought about you today."
+"Our connection? It's a perfect {answer}."
+"My love for you? Over {answer} percent."
+"That's our compatibility score. Not bad, huh?"
+"You + Me = {answer}ever."
+"You have {answer}% of my heart. (The rest is yours too, silly)."
+"That's the number of reasons you're amazing. (I'm still counting)."
+"My heart does {answer} beats per minute just for you."
+"Our future? I give it a {answer} out of 10."
+"That's how many kisses I owe you."
+"The answer is {answer}, but my love for you is immeasurable."
+"You're more than {answer} to me."
+"I'd rather be with you than have {answer} dollars."
+"If I had {answer} wishes, I'd wish for you every time."
+"You're the {answer}th reason I smile every day."
+"My heart skips {answer} beats every time I see you."
+"We've got {answer} reasons to stay together forever."
+"You're the answer to my {answer} prayers."
+"I love you {answer} times more than chocolate."
+"You're {answer} times hotter than the sun."
+"I'd walk {answer} miles just to see you."
+"You're one in {answer}."
+"I've fallen for you {answer} times and I'd do it again."
+"You're the {answer}th wonder of my world."
+"My love for you is {answer} light years long."
+"You're the {answer}th note in my symphony of love."
+"I'd spend {answer} lifetimes with you."
+"You're the {answer}th piece of my heart."
+"I've got {answer} reasons to kiss you right now."
+"You're the {answer}th star in my sky."
+
+universal:
+"That's how many times I've thought about you today. 💭",
+"Our connection? It's a perfect {answer}. ✨",
+"My love for you? Over {answer} percent. 💖",
+"That's our compatibility score. Not bad, huh? 😉",
+"You + Me = {answer}ever. 🥰",
+"You have {answer}% of my heart. (The rest is yours too, silly). 💕",
+"That's the number of reasons you're amazing. (I'm still counting). 🌟",
+"My heart does {answer} beats per minute just for you. 💓",
+"Our future? I give it a {answer} out of 10. 🔮",
+"That's how many kisses I owe you. 💋",
+"The answer is {answer}, but my love for you is immeasurable. ∞",
+"You're more than {answer} to me. 💝",
+"I'd rather be with you than have {answer} dollars. 💰",
+"If I had {answer} wishes, I'd wish for you every time. 🌠",
+"You're the {answer}th reason I smile every day. 😊",
+"My heart skips {answer} beats every time I see you. 💗",
+"We've got {answer} reasons to stay together forever. 💑",
+"You're the answer to my {answer} prayers. 🙏",
+"I love you {answer} times more than chocolate. 🍫",
+"You're {answer} times hotter than the sun. ☀️",
+"I'd walk {answer} miles just to see you. 🚶‍♂️",
+"You're one in {answer}. 🎯",
+"I've fallen for you {answer} times and I'd do it again. 💫",
+"You're the {answer}th wonder of my world. 🌎",
+        "My love for you is {answer} light years long. 🌌",
+        "You're the {answer}th note in my symphony of love. 🎵",
+        "I'd spend {answer} lifetimes with you. ⏳",
+        "You're the {answer}th piece of my heart. 🧩",
+        "I've got {answer} reasons to kiss you right now. 💏",
+        "You're the {answer}th star in my sky. 🌟"
+      ],
+      
+      // Special number responses
+      'special': {
+        '0': [
+          "Zero doubts, you're the one. 💯",
+          "My love for you? Zero conditions. ❤️",
+          "The chance of me leaving? Zero. 🚫",
+          "Zero reasons to ever let you go. 🤗",
+          "Zero doubts, you're the one for me. 💍",
+          "My love for you is zero percent conditional. 💞"
+        ],
+        '1': [
+          "You're my number one. Always. 🥇",
+          "The one and only person for me. 💑",
+          "One look from you and I'm done for. 😍",
+          "You are my one in a million. 💎",
+          "You're the one and only. 🎯",
+          "One look from you and I'm yours. 💘"
+        ],
+        '69': [
+          "69 is a fun number, but you're more fun. 😏",
+          "Our love is 69 times more exciting! 💫",
+          "69? That's how many ways I love you! 💖"
+        ],
+        '100': [
+          "100 percent of my love is for you. 💯",
+          "I'd give you 100 reasons why I love you, but I only need one: you're you. 💝",
+          "100% perfect, just like you! 🌟"
+        ],
+        '365': [
+          "365 days a year, I'm yours. 📅",
+          "Every day of the year, I love you! 💑",
+          "365 reasons to wake up next to you! ☀️"
+        ],
+        '1000': [
+          "A thousand words? I only need three: I love you. 💬",
+          "1000 hearts couldn't hold my love for you! 💕",
+          "A thousand miles? I'd walk them for you! 🚶‍♂️"
+        ]
+      },
+      
+      // Category-based responses
+      'categories': {
+        'negative': [
+          "Even negative numbers can't describe how much I don't like being away from you! 😔",
+          "My love for you is always positive, even with negative results! ➕",
+          "Below zero is how my heart would be without you. 🥶",
+          "Negative? That's how many people I love as much as you. 👑",
+          "A negative result? That's how much I miss you when we're apart. 💔"
+        ],
+        'decimal': [
+          "A little decimal, just like the little space left in my heart before I met you. 💞",
+          "Not a whole number, but you make me feel whole. 💯",
+          "Our love isn't basic; it has depth, just like this decimal! 🌊",
+          "A decimal? Just like my love, it goes on and on. ∞",
+          "This decimal is non-terminating, just like my love for you. 🔄"
+
+prime:
+"Our love is prime; it can't be divided! 🔒",
+"You're one of a kind, like a prime number. 💎",
+"This number is prime, just like our relationship goals. 🎯",
+"Prime numbers are rare, just like true love. 💫",
+"A prime number? Our love is prime and proper. 👑"
+
+large:
+"That's approximately how many neurons you short-circuit in my brain! 🧠",
+"A number as infinite as my crush on you! 🌌",
+"That's how many seconds I'd wait for you! ⏳",
+"My love for you is in the {answer} digits! 💖",
+"A big number? That's how many times I've thought about you! 💭",
+"Even with a number this large, my love is still bigger! 💕"
+
+Number-specific puns 1-10
+numberPuns: 
+'2': "It takes two to tango, and I only want to tango with you! 💃",
+'3': "Three little words: I. Love. You. 💌",
+'4': "I'm falling for you, 4-real! 😍",
+'5': "Give me 5... minutes more with you? ⏰",
+'6': "You're my 6, because you make me feel like a 10! 🔟",
+'7': "You're my lucky 7! 🍀",
+'8': "You're the one I 8-ly think about! 💭",
+'9': "I'd choose you 9 times out of 10. (The 10th time I was distracted by how cute you are). 😉",
+'10': "You're a perfect 10, and don't you forget it! 💯"
+      
+Always have cute fallbacks
+"The answer is {answer}, but the real solution is cuddles! 🥰",
+"Error 404: Answer not found, too distracted by you! 💖",
+"The only math that matters is Us + Forever! 💑",
+"You're my favorite calculation! 💕",
+"Math was never this fun until I met you! ✨",
+"You're the reason I love math! 📐",
+"Our love equation is always balanced! ⚖️",
+"You + Me = Perfect Match! 💘"
+
+Answers For the Number 0
+"Zero doubts, you're the one."
+"My love for you? Zero conditions."
+"The chance of me leaving? Zero."
+"Zero reasons to ever let you go."
+
+Answers For the Number 1
+"You're my number one. Always."
+"The one and only person for me."
+"One look from you and I'm done for."
+"You are my one in a million."
+
+Answers For Prime Numbers
+"Our love is prime; it can't be divided."
+"You're one of a kind, like a prime number."
+"This number is prime, just like our relationship goals."
+
+Answers For Numbers 1-10 (Specific Puns)
+(2): "It takes two to tango, and I only want to tango with you."
+(3): "Three little words: I. Love. You."
+(4): "I'm falling for you, 4-real."
+(5): "Give me 5... minutes more with you?"
+(6): "You're my 6, because you make me feel like a 10."
+(7): "You're my lucky 7."
+(8): "You're the one I 8-ly think about."
+(9): "I'd choose you 9 times out of 10. (The 10th time I was distracted by how cute you are)."
+(10): "You're a perfect 10, and don't you forget it."
+
+Answers For Large Numbers
+"That's approximately how many neurons you short-circuit in my brain."
+"A number as infinite as my crush on you."
+"That's how many seconds I'd wait for you."
+"My love for you is in the {answer} digits."
+
+Answers For Negative Numbers
+"A negative result? That's how much I don't like being away from you."
+"Below zero is how my heart would be without you."
+"Negative? That's impossible, because my love for you is always positive."
+
+Answers For Decimal Answers
+"A little decimal, just like the little space left in my heart before I met you."
+"Not a whole number, but you make me feel whole."
+"Our love isn't basic; it has depth, just like this decimal."
+
+Answers Just Plain Silly & Cute
+"The answer is {answer}, but the real solution is cuddles."
+"Error 404: Answer not found, too distracted by you."
+"The only math that matters is Us + Forever."
+
+
+Specific Numbers:
+
+Zero (0):
+21. "Zero doubts, you're the one for me."
+22. "My love for you is zero percent conditional."
+
+One (1):
+23. "You're the one and only."
+24. "One look from you and I'm yours."
+
+Two (2):
+25. "It takes two to tango, and I want to tango with you."
+26. "Two hearts, one rhythm: ours."
+
+Three (3):
+27. "Three words: I. Love. You."
+28. "You, me, and our love: the perfect trio."
+
+Four (4):
+29. "I love you 4-ever and always."
+30. "You're the 4th dimension of my life."
+
+Five (5):
+31. "Give me 5 minutes of your time and I'll make you smile."
+32. "You're my high 5, every day."
+
+Six (6):
+33. "You're my 6, because you make me feel like a 10."
+34. "Six strings on my guitar, but only one you."
+
+Seven (7):
+35. "You're my lucky number 7."
+36. "Seven days a week, I'm thinking of you."
+
+Eight (8):
+37. "You're the one I 8-ly think about."
+38. "I'd wait 8 days a week for you."
+
+Nine (9):
+39. "I'd choose you 9 times out of 10. (The 10th time I was thinking about how much I love you)."
+40. "You're the 9th wonder of my world."
+
+Ten (10):
+41. "You're a perfect 10."
+42. "I love you 10 times more than yesterday."
+
+Eleven (11):
+43. "You're my 11th commandment: thou shalt love me."
+
+Twelve (12):
+44. "12 hours a day I think of you, the other 12 I dream of you."
+
+Thirteen (13):
+45. "You're my lucky 13."
+
+Fourteen (14):
+46. "I'll love you for 14 lifetimes."
+
+Fifteen (15):
+47. "15 minutes of your love is all I need."
+
+Sixteen (16):
+48. "You're the 16th note in my heart's melody."
+
+Seventeen (17):
+49. "At 17, I didn't know love, but now I do with you."
+
+Eighteen (18):
+50. "18 years old? No, but my love for you is adult-sized."
+
+Nineteen (19):
+51. "19 times I've tried to write the perfect love note, but you're the 20th."
+
+Twenty (20):
+52. "20/20 vision couldn't see someone as perfect as you."
+
+Twenty-one (21):
+53. "21 guns salute to the one I love."
+
+Twenty-five (25):
+54. "25 years from now, I'll still love you."
+
+Thirty (30):
+55. "30 days have September, but my love for you has no end."
+
+Forty (40):
+56. "40 acres and a mule? I'd trade it all for you."
+
+Fifty (50):
+57. "50 ways to leave your lover? I only need one: stay with me."
+
+Sixty-nine (69):
+58. "69 is a fun number, but you're more fun."
+
+One Hundred (100):
+59. "100 percent of my love is for you."
+60. "I'd give you 100 reasons why I love you, but I only need one: you're you."
+
+Three Hundred Sixty-Five (365):
+61. "365 days a year, I'm yours."
+
+One Thousand (1000):
+62. "A thousand words? I only need three: I love you."
+
+Ten Thousand (10000):
+63. "10,000 hours? I'd spend them all with you."
+
+One Hundred Thousand (100000):
+64. "100,000 reasons to love you? I'm still counting."
+
+One Million (1000000):
+65. "A million miles away? I'd still find you."
+
+Negative Numbers (5):
+"Negative? That's how my heart would be without you."
+"Below zero? That's how much I don't want to be without you."
+"A negative result? That's how many people I love as much as you."
+"Negative? That's the temperature of my heart without you."
+"A negative number? That's how many times I've regretted loving you."
+
+Decimal Numbers (5):
+"A decimal? Just like my love, it goes on and on."
+"Not a whole number? You're my whole world."
+"A fraction of my heart? No, you have all of it."
+"This decimal is non-terminating, just like my love for you."
+"A point? You've pointed me in the right direction."
+
+Even Numbers (5):
+"Even numbers are stable, just like our love."
+"An even result? We're even more in love than I thought."
+"Even Steven? More like Even in Love."
+"An even number? That's how many times I'll say I love you: endlessly."
+"Even numbers are divisible by two, just like my heart is divided between you and me."
+
+Odd Numbers (5):
+"Oddly enough, I'm even more in love with you."
+"An odd number? That's how we stand out from the crowd."
+"Oddly perfect, just like us."
+"An odd number? That's how many times I've fallen for you: every time.
+"Odd numbers are unique, just like our love."
+
+Prime Numbers (5):
+"A prime number? Our love is indivisible."
+"You're one of a kind, like a prime number."
+"A prime? That's how many people I want: you."
+"Prime numbers are rare, just like true love."
+"A prime number? Our love is prime and proper."
+
+Perfect Squares (5):
+"A perfect square? Our love is squared away."
+"You're the root of my perfect square."
+"A perfect square? Our love is four-sided: trust, respect, love, and laughter."
+"A perfect square? That's how I feel when I'm with you: complete."
+"A perfect square? Our love is balanced and equal."
+
+Large Numbers ( > 1000) (5):
+"A big number? That's how many times I've thought about you."
+"A large result? That's how many miles I'd travel for you."
+"A huge number? That's how many seconds I'll love you."
+"A giant number? That's how many kisses I owe you."
+"A massive number? That's how much I love you."
+
+Answers For Any Number
+That's how many times I've thought about you today.
+Our connection? It's a perfect {answer}.
+My love for you? Over {answer} percent.
+That's our compatibility score. Not bad, huh?
+You + Me = {answer}ever.
+You have {answer}% of my heart. (The rest is yours too, silly).
+That's the number of reasons you're amazing. (I'm still counting).
+My heart does {answer} beats per minute just for you.
+Our future? I give it a {answer} out of 10.
+That's how many kisses I owe you.
+
+Answers For the Number 0
+Zero doubts, you're the one.
+My love for you? Zero conditions.
+The chance of me leaving? Zero.
+Zero reasons to ever let you go.
+
+Answers For the Number 1
+You're my number one. Always.
+The one and only person for me.
+One look from you and I'm done for.
+You are my one in a million.
+
+Answers For Prime Numbers
+Our love is prime; it can't be divided.
+You're one of a kind, like a prime number.
+This number is prime, just like our relationship goals.
+
+Answers For Perfect Squares (e.g., 4, 9, 16, 25)
+Our love is a perfect square, no roots of doubt.
+You make everything perfect, squared.
+We fit together like a perfect square.
+
+Answers For Double Numbers (e.g., 11, 22, 33, 44)
+Look, a double number! We're twice as nice together.
+Double the number, double the love for you.
+We're a matching pair, just like this number.
+
+Answers For Numbers 1-10 (Specific Puns)
+(2): It takes two to tango, and I only want to tango with you.
+(3): Three little words: I. Love. You.
+(4): I'm falling for you, 4-real.
+(5): Give me 5... minutes more with you?
+(6): You're my 6, because you make me feel like a 10.
+(7): You're my lucky 7.
+(8): You're the one I 8-ly think about.
+(9): I'd choose you 9 times out of 10. (The 10th time I was distracted by how cute you are).
+(10): You're a perfect 10, and don't you forget it.
+
+Answers For Large Numbers
+That's approximately how many neurons you short-circuit in my brain.
+A number as infinite as my crush on you.
+That's how many seconds I'd wait for you.
+My love for you is in the {answer} digits.
+
+Answers For Negative Numbers
+A negative result? That's how much I don't like being away from you.
+Below zero is how my heart would be without you.
+Negative? That's impossible, because my love for you is always positive.
+
+Answers For Decimal Answers
+A little decimal, just like the little space left in my heart before I met you.
+Not a whole number, but you make me feel whole.
+Our love isn't basic; it has depth, just like this decimal.
+
+Answers Just Plain Silly & Cute
+The answer is {answer}, but the real solution is cuddles.
+Error 404: Answer not found, too distracted by you.
+The only math that matters is Us + Forever.
